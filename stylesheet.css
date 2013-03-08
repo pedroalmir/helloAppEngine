@@ -1,0 +1,43 @@
+body {
+	font-size: 1em; 
+	font-family: "Times New Roman", serif;
+	color: black;
+}
+
+h1 {
+	font-size: 4em; 
+	font-family: "Times New Roman", serif;
+}
+
+.button {
+	border-style: solid;
+	border-width: small;
+	border-color: black; 
+	border-radius: 5px;
+
+	height: 30px;
+	width: 60px;
+
+	text-align: center;
+	font-family: Verdana, serif;
+	font-size: 1em;
+}
+
+
+/* color ID's */
+#green {
+	background-color: green;
+}
+
+#red {
+	background-color: red;
+}
+
+#yellow {
+	background-color: yellow;
+}
+
+#blue {
+	background-color: blue;
+}
+
